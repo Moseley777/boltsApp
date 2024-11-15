@@ -42,7 +42,7 @@ class MyDrawer extends StatelessWidget {
                 ),
                   ListTile(
                   leading: Icon(Icons.show_chart, color: Color.fromRGBO(209, 186, 142, 1.0),),
-                  title: Text('GOALS',style: TextStyle(color: Color.fromRGBO(209, 186, 142, 1.0),fontSize: 17,fontWeight: FontWeight.bold )),
+                  title: Text('GOALS STATS',style: TextStyle(color: Color.fromRGBO(209, 186, 142, 1.0),fontSize: 17,fontWeight: FontWeight.bold )),
                   onTap: (){
                      Navigator.push(
                      context,
