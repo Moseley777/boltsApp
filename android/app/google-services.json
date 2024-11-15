@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632908817300",
+    "project_id": "boltsapp-d2b89",
+    "storage_bucket": "boltsapp-d2b89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632908817300:android:ecbb127daf3627e246a581",
+        "android_client_info": {
+          "package_name": "com.example.boltsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1AtzcqT3lQ9kNzKY85WPshQXbuvQNswg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
